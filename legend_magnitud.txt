@@ -1,0 +1,12 @@
+H 8 1 Magnitud (Mw)
+D 0.2c 1p
+G 0.15c
+S 0.25c c 0.4c red    thin 0.7c mayor o igual a 5.0
+G 0.15c
+S 0.25c c 0.3c yellow thin 0.7c entre 4.0 y 4.9
+G 0.15c
+S 0.25c c 0.25c cyan  thin 0.7c entre 3.0 y 3.9
+G 0.15c
+S 0.25c c 0.20c green thin 0.7c menor a 3.0
+G 0.20c
+M 1 1 200+u

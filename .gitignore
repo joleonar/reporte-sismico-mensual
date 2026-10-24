@@ -1,0 +1,38 @@
+# =============================================================
+# Archivos de salida generados (PDFs finales de reportes)
+# =============================================================
+reporte_mensual_*.pdf
+*.pdf
+
+# =============================================================
+# Salidas y temporales de SEISAN / GMT
+# =============================================================
+select.out
+select.inp
+waveform_names.out
+index.out
+index.codaq
+
+# =============================================================
+# Carpetas de figuras generadas y respaldos antiguos
+# =============================================================
+figuras_reporte/
+files_old/
+*.pdf
+
+# =============================================================
+# Entorno de Python y Jupyter Notebook
+# =============================================================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# =============================================================
+# Archivos del sistema operativo
+# =============================================================
+Thumbs.db
+Desktop.ini
+.DS_Store
